@@ -1,0 +1,18 @@
+mystring: yo
+mysecondstring: mama
+myobj:
+  aaa: bbb
+  ccc: ddd
+myobj2:
+  rrr: hhh
+  fff: ttt
+mylist:
+  - zzz
+  - yyy
+  - xxx
+myobjlist:
+  - rrr: sss
+    yyy: iii
+  - rrr: uuu
+    yyy: jjj
+do: false
